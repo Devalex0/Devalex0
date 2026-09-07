@@ -4,8 +4,8 @@
 
 Estudante de Ciência da Computação <br>
 Interesse em Cybersecurity <br>
-Interesse em Java
-Love Linux.
+Interesse em Java <br>
+Usuário Linux.
    
 
 ---
